@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-**As a** [role]  
- **I need** [function]  
- **So that** [benefit]  
+**como** [role]  
+ **necesito** [function]  
+ **para** [benefit]  
    
  ### Details and Assumptions
  * [document what you know]
